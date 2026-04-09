@@ -59,7 +59,7 @@ Follow the setup guide to link Irvine32.lib and Irvine32.inc in VS
 
 Clone the repository
 
-bash   git clone https://github.com/your-username/Pacman-ASM-Irvine32.git
+bash   git clone https://github.com/msaimsawaid/Pacman-ASM-Irvine32.git
    cd Pacman-ASM-Irvine32
 
 Open the solution
